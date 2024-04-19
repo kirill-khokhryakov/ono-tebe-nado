@@ -323,9 +323,6 @@
 }
 
 .logos_footer_links {
-  box-sizing: border-box;
-  position: relative;
-  top: 10px;
   list-style: none;
   display: flex;
   flex-direction: row;
@@ -334,8 +331,6 @@
   left: 185px;
 }
 
-.veo{
-  
 .logo_link {
   width:48px;
   height: 48px;

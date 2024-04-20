@@ -278,8 +278,13 @@
 }
 
 .about_text_content_top {
-  padding-bottom: 2px;
+  padding-bottom: 1px;
   padding-top: 12px;
+}
+
+.about_text_content {
+letter-spacing: 0.11px;
+
 }
 
 .about_text {
@@ -298,6 +303,11 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.footer_adress {
+  position: relative;
+  right: 10px;
+  line-height: 1.35em;
+}
 
 .footer_menu_list {
   list-style: none;

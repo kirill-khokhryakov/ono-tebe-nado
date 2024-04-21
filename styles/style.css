@@ -279,18 +279,17 @@
 }
 
 .about_text_content_top {
-  padding-bottom: 1px;
+  padding-bottom: 23px;
   padding-top: 12px;
 }
 
 .about_text_content {
-letter-spacing: 0.11px;
+letter-spacing: 0.03px;
 
 }
 
 .about_text {
   padding: 133px 0 23px;
- 
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;

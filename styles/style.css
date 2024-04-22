@@ -70,7 +70,7 @@
   background-repeat: no-repeat;
   position: relative;
   background-image: url(../images/cover.jpg);
-  padding: 165px 20px 50px 50px;
+  padding: 165px 55px 0 50px;
 }
 
 .overlay {
@@ -84,36 +84,40 @@
 }
 
 .title {
-
- 
   box-sizing: border-box;
   color: rgba(255, 255, 255, 1);
   text-transform: uppercase;
-  letter-spacing: 0.3em;
   display: flex;
   flex-direction: column;
   font-size: 100px;
   gap: 6px;
   position: relative;
   z-index: 1;
-  
+  text-align: left;
 }
 
 .title_top {
-  line-height: 115px;
+
 }
 
 .letter_large {
-  letter-spacing: 0.6em;
+  letter-spacing: 60px;
+}
+
+.letter_between {
+  letter-spacing: 30px;
+}
+
+.letter_quit { 
+  letter-spacing: 0;
 }
 
 .title_center {
-
   text-align: center;
 }
   
 .title_bottom {
-  text-align: end;
+  text-align: right;
 }
 
 .overlay_overview {

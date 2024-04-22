@@ -159,7 +159,9 @@
 
 .lots_card_content {
   padding: 51px 40px 48px;
+  position: relative;
   width: 334px;
+  min-height: 563px;
 }
 
 .lots_title {
@@ -215,11 +217,6 @@
   padding-bottom: 94px;
 }
 
-.lots_card_content {
-  position: relative;
-  width: 334px;
-  min-height: 563px;
-}
 
 .film {
   background: url(../images/card-lot-01.jpg) center/cover;

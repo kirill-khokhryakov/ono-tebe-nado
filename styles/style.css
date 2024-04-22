@@ -96,10 +96,6 @@
   text-align: left;
 }
 
-.title_top {
-
-}
-
 .letter_large {
   letter-spacing: 60px;
 }
@@ -108,7 +104,7 @@
   letter-spacing: 30px;
 }
 
-.letter_quit { 
+.letter_quit {
   letter-spacing: 0;
 }
 
